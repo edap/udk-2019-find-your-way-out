@@ -1,3 +1,5 @@
+README2.md
+
 # Some general ignore patterns
 build/
 obj/
@@ -15,14 +17,15 @@ Release*/
 *.perspectivev3
 *.mode1v3
 *.mode2v3
-*/bin/*_debug
+*/bin/*.app
+
 #XCode 4
 xcuserdata
 *.xcworkspace
 
 #QtCreator TODO
-build-*
-*.qbs
+*-Debug/
+*/*/*_debug
 *.qbs.user
 
 #Visual Studio
@@ -30,6 +33,11 @@ build-*
 *.opensdf
 *.suo
 ipch/
+*_debug.exp
+*_debug.ilk
+*_debug.lib
+*_debug.pdb
+*/.vs/*
 
 #Eclipse
 .metadata
