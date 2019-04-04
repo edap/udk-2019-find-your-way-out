@@ -4,19 +4,47 @@
 
 "Shining 360" by [Claire Hentschker](http://www.clairesophie.com/)
 
- In the frame of the main topic of this semester ("Orientation, Navigation, Information/Intervention"), this course will focuses on the scanning of internal and external 3D spaces and on the construction of alternative paths to experience those spaces.
+ In the frame of the main topic of this semester ("Orientation, Navigation, Information/Intervention"), this course will focuses on creation of 3D spaces and on the construction of alternative paths to experience those spaces.
 
 
-##### Table of Contents  
+##### Table of Contents
+
+[Space Navigation](#navigation)
+
 [Point clouds](#point-clouds)
 
 [3D scan of objects](#scan-obj)
 
 [3D scan of ambients](#scan-ambients) 
 
-[Space Navigation](#navigation)
-
 [3D scanned model elaboration.](#elaboration)
+
+
+<a name="#navigation"/>
+
+## Space navigation.
+
+</a>
+
+- Camera movements inside 3D spaces.
+- Possible interactions.
+- Multiple views, camera parenting, camera on a 3D path.
+
+### Resources/Inspiration
+- All the examples in your OF installation inside `examples/3d` that have the name that include the word "Camera".
+- [Moving Cameras and Point of View by Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/moving-cameras.md)
+- [Julius Von Bismarck, topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/)
+- [Ian MacLarty, Forests are for Trees](https://ianmaclarty.itch.io/forests-are-for-trees)
+- [Ian MacLarty, The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)
+- [Ian MacLarty, SouthBank Portrait](https://ianmaclarty.itch.io/southbank-portrait)
+- [Ian MacLarty, Black Hole Interior Explorer](https://ianmaclarty.itch.io/black-hole-interior-explorer)
+- [Etoy, digital hijack](https://www.artlog.net/de/art/etoy-digital-hijack)
+- [Heat Bunting, borderxing](http://www.irational.org/heath/borderxing/home.html)
+
+
+### Homework
+- Make a 3D space that you can navigate using the WASD keys. 
+- Play one of the MacLarty's game. Find online a game where navigation per se is the core component of the game.
 
 <a name="#point-clouds"/>
 
@@ -60,29 +88,9 @@
 ### Resources/Inspiration:
 - [Shining 360 by Claire Hentschker](http://www.clairesophie.com/shining360excerpt)
 
-<a name="#navigation"/>
-
-## Space navigation.
-
-</a>
-
-- Camera movements inside 3D scanned space.
-- Possible interactions.
-- Multiple views, camera parenting, camera on a 3D path.
-
-### Resources/Inspiration
-- All the examples in your OF installation inside `examples/3d` that have the name that include the word "Camera".
-- [Moving Cameras and Point of View by Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/moving-cameras.md)
-- [Julius Von Bismarck, topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/)
-- [Ian MacLarty, Forests are for Trees](https://ianmaclarty.itch.io/forests-are-for-trees)
-- [Ian MacLarty, The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)
-- [Ian MacLarty, SouthBank Portrait](https://ianmaclarty.itch.io/southbank-portrait)
-- [Ian MacLarty, Black Hole Interior Explorer](https://ianmaclarty.itch.io/black-hole-interior-explorer)
-
-
 ### Homework
-- Make a 3D space that you can navigate using the WASD keys. 
-- Play one of the MacLarty's game. Find online a game where navigation per se is the core component of the game.
+- Organize a navigation path inside a 3D scanned space.
+
 
 <a name="#elaboration"/>
 
