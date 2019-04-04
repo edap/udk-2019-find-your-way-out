@@ -23,6 +23,7 @@
 ## Point clouds.
 
 </a>
+
 - Introduction to point clouds.
 - Create and draw a point cloud in openFrameworks.
 
@@ -63,6 +64,7 @@
 ## Space navigation.
 
 </a>
+
 - Camera movements inside 3D scanned space.
 - Possible interactions.
 - Multiple views, camera parenting, camera on a 3D path.
@@ -76,6 +78,7 @@
 ## 3D scanned model elaboration.
 
 </a>
+
 - Apply shaders to the model.
 - From points to 3D surfaces using [MeshLab](https://en.wikipedia.org/wiki/MeshLab)
 - Mesh deformation using vertex shaders.
