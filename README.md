@@ -42,7 +42,7 @@
 - [Heat Bunting, borderxing](http://www.irational.org/heath/borderxing/home.html)
 
 
-### Homework
+### Class activities:
 - Make a 3D space that you can navigate using the WASD keys. 
 - Play one of the MacLarty's game. Find online a game where navigation per se is the core component of the game.
 
@@ -55,7 +55,7 @@
 - Introduction to point clouds.
 - Create and draw a point cloud in openFrameworks.
 
-### Class activities.
+### Class activities:
 -  Open `examples/3d/pointCloudExample`, remove `glEnable(GL_POINT_SMOOTH);`, `mesh.setMode(OF_PRIMITIVE_POINTS);`, `glEnable(GL_POINT_SMOOTH);` and see how this affect the result.
 - Create a texture and a point cloud mesh using ofNoise. Apply the colors to your points, as in the example.
 
@@ -88,7 +88,7 @@
 ### Resources/Inspiration:
 - [Shining 360 by Claire Hentschker](http://www.clairesophie.com/shining360excerpt)
 
-### Homework
+### Class activities:
 - Organize a navigation path inside a 3D scanned space.
 
 
