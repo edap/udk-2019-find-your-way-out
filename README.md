@@ -71,8 +71,18 @@
 - Multiple views, camera parenting, camera on a 3D path.
 
 ### Resources/Inspiration
+- All the examples in your OF installation inside `examples/3d` that have the name that include the word "Camera".
 - [Moving Cameras and Point of View by Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/moving-cameras.md)
 - [Julius Von Bismarck, topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/)
+- [Ian MacLarty, Forests are for Trees](https://ianmaclarty.itch.io/forests-are-for-trees)
+- [Ian MacLarty, The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)
+- [Ian MacLarty, SouthBank Portrait](https://ianmaclarty.itch.io/southbank-portrait)
+- [Ian MacLarty, Black Hole Interior Explorer](https://ianmaclarty.itch.io/black-hole-interior-explorer)
+
+
+### Homework
+- Make a 3D space that you can navigate using the WASD keys. 
+- Play one of the MacLarty's game. Find online a game where navigation per se is the core component of the game.
 
 <a name="#elaboration"/>
 
