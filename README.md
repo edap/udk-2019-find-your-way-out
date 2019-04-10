@@ -73,6 +73,7 @@
 - [Maze generation algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 - [List of maze video games](https://en.wikipedia.org/wiki/List_of_maze_video_games)
 - [Pac-man](https://en.wikipedia.org/wiki/Pac-Man)
+- [2002, Super Mario Clouds](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
 
 
 <a name="#point-clouds"/>
