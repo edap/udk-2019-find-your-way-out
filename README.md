@@ -74,6 +74,7 @@
 - [List of maze video games](https://en.wikipedia.org/wiki/List_of_maze_video_games)
 - [Pac-man](https://en.wikipedia.org/wiki/Pac-Man)
 - [2002, Super Mario Clouds](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
+- [The invisible shape of things past](https://artcom.de/en/project/the-invisible-shape-of-things-past/)
 
 
 <a name="#point-clouds"/>
