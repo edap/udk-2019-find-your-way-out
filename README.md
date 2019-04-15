@@ -36,6 +36,7 @@
 - All the examples in your OF installation inside `examples/3d` that have the name that include the word "Camera".
 - [Moving Cameras and Point of View by Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/moving-cameras.md)
 
+- [Tezuka Osamu, 1984](https://www.youtube.com/watch?v=_1pThwh2Ves)
 - [Firewatch](https://www.firewatchgame.com/)
 - [Walking Simulator, definition](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnvironmentalNarrativeGame?from=Main.WalkingSimulator)
 - [History of Walking Simulator](https://www.youtube.com/watch?time_continue=2&v=iDjkWxYD298)
@@ -46,8 +47,6 @@
 - [Ian MacLarty, Black Hole Interior Explorer](https://ianmaclarty.itch.io/black-hole-interior-explorer)
 
 - [Julius Von Bismarck, topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/)
-- [Etoy, digital hijack](https://www.artlog.net/de/art/etoy-digital-hijack)
-- [Heat Bunting, borderxing](http://www.irational.org/heath/borderxing/home.html)
 
 
 ### Class activities:
@@ -75,6 +74,7 @@
 - [Pac-man](https://en.wikipedia.org/wiki/Pac-Man)
 - [2002, Super Mario Clouds](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
 - [The invisible shape of things past](https://artcom.de/en/project/the-invisible-shape-of-things-past/)
+- [Etoy, digital hijack](https://www.artlog.net/de/art/etoy-digital-hijack)
 
 
 <a name="#point-clouds"/>
