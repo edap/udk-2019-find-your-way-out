@@ -31,6 +31,18 @@
 
 </a>
 
+- [Tezuka Osamu, 1984](https://www.youtube.com/watch?v=_1pThwh2Ves)
+- [Firewatch](https://www.firewatchgame.com/)
+- [Walking Simulator, definition](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnvironmentalNarrativeGame?from=Main.WalkingSimulator)
+- [History of Walking Simulator](https://www.youtube.com/watch?time_continue=2&v=iDjkWxYD298)
+- [History of Walking Simulator 2]((https://www.salon.com/2017/11/11/a-brief-history-of-the-walking-simulator-gamings-most-detested-genre/)
+- [Ian MacLarty, Forests are for Trees](https://ianmaclarty.itch.io/forests-are-for-trees)
+- [Ian MacLarty, The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)
+- [Ian MacLarty, SouthBank Portrait](https://ianmaclarty.itch.io/southbank-portrait)
+- [Ian MacLarty, Black Hole Interior Explorer](https://ianmaclarty.itch.io/black-hole-interior-explorer)
+
+- [Julius Von Bismarck, topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/)
+
 
 <a name="#labyrinth"/>
 
@@ -52,6 +64,9 @@
 - [Simple Path finding algorithm](https://en.wikipedia.org/wiki/Pathfinding#Sample_algorithm)
 - [List of maze video games](https://en.wikipedia.org/wiki/List_of_maze_video_games)
 - [Pac-man](https://en.wikipedia.org/wiki/Pac-Man)
+- [2002, Super Mario Clouds](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
+- [The invisible shape of things past](https://artcom.de/en/project/the-invisible-shape-of-things-past/)
+- [Etoy, digital hijack](https://www.artlog.net/de/art/etoy-digital-hijack)
 
 ### Class activities:
 - Build a 2D composition that recall a labyrinth OR
