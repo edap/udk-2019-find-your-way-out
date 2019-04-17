@@ -31,19 +31,6 @@
 
 </a>
 
-- [Tezuka Osamu, 1984](https://www.youtube.com/watch?v=_1pThwh2Ves)
-- [Firewatch](https://www.firewatchgame.com/)
-- [Walking Simulator, definition](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnvironmentalNarrativeGame?from=Main.WalkingSimulator)
-- [History of Walking Simulator](https://www.youtube.com/watch?time_continue=2&v=iDjkWxYD298)
-- [History of Walking Simulator 2]((https://www.salon.com/2017/11/11/a-brief-history-of-the-walking-simulator-gamings-most-detested-genre/)
-- [Ian MacLarty, Forests are for Trees](https://ianmaclarty.itch.io/forests-are-for-trees)
-- [Ian MacLarty, The Catacombs of Solaris](https://ianmaclarty.itch.io/catacombs-of-solaris)
-- [Ian MacLarty, SouthBank Portrait](https://ianmaclarty.itch.io/southbank-portrait)
-- [Ian MacLarty, Black Hole Interior Explorer](https://ianmaclarty.itch.io/black-hole-interior-explorer)
-
-- [Julius Von Bismarck, topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/)
-
-
 <a name="#labyrinth"/>
 
 ## Maze
@@ -144,6 +131,7 @@
 - All the examples in your OF installation inside `examples/3d` that have the name that include the word "Camera".
 - [Moving Cameras and Point of View by Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/moving-cameras.md)
 
+- [Tezuka Osamu, 1984](https://www.youtube.com/watch?v=_1pThwh2Ves)
 - [Firewatch](https://www.firewatchgame.com/)
 - [Walking Simulator, definition](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnvironmentalNarrativeGame?from=Main.WalkingSimulator)
 - [History of Walking Simulator](https://www.youtube.com/watch?time_continue=2&v=iDjkWxYD298)
@@ -156,6 +144,7 @@
 - [Julius Von Bismarck, topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/)
 - [Etoy, digital hijack](https://www.artlog.net/de/art/etoy-digital-hijack)
 - [Heat Bunting, borderxing](http://www.irational.org/heath/borderxing/home.html)
+
 
 
 ### Class activities:
