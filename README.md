@@ -31,6 +31,14 @@
 
 </a>
 
+### Class activities:
+- Remove ofEasyCam and use ofCamera.
+- Add a perpendicular plane to the ground and use it for the sky. Apply a shader on it.
+- Move the noise displacement in the GPU. Use this [function](https://www.shadertoy.com/view/4dS3Wd).
+- Add texture splatting to your mountains. Google for "texture splatting height-map". Write your own implementation in the fragment shader, passing a texture as uniform. We will see the different results in class.
+
+
+
 <a name="#labyrinth"/>
 
 ## Maze
