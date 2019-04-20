@@ -151,6 +151,7 @@
 
 - [Julius Von Bismarck, topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/)
 - [Etoy, digital hijack](https://www.artlog.net/de/art/etoy-digital-hijack)
+- [WORLD4](https://alexandermuscat.itch.io/world4)
 - [Heat Bunting, borderxing](http://www.irational.org/heath/borderxing/home.html)
 
 
