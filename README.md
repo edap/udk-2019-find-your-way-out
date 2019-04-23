@@ -39,7 +39,7 @@
 - Adjust height of the hills using the mouse position.
 - How could you add a simple fog?
 - Find another texture for the mountains.
-- Set a gradient for the sky.
+- Set a gradient for the sky. Consult [the book of shaders](https://thebookofshaders.com/03/)
 
 
 
