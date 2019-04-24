@@ -32,10 +32,18 @@
 </a>
 
 ### Class activities:
-- Remove ofEasyCam and use ofCamera.
 - Add a perpendicular plane to the ground and use it for the sky. Apply a shader on it.
 - Move the noise displacement in the GPU. Use this [function](https://www.shadertoy.com/view/4dS3Wd).
 - Add texture splatting to your mountains. Google for "texture splatting height-map". Write your own implementation in the fragment shader, passing a texture as uniform. We will see the different results in class.
+
+- How could you add a simple fog?
+- Find another texture for the mountains.
+- Set a gradient for the sky. Consult [the book of shaders](https://thebookofshaders.com/03/)
+
+### Homework 
+- Remove ofEasyCam and use ofCamera.
+- Adjust height of the hills using the mouse position (use setUniform1f!).
+- Bonus for the sun
 
 
 
@@ -151,6 +159,7 @@
 
 - [Julius Von Bismarck, topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/)
 - [Etoy, digital hijack](https://www.artlog.net/de/art/etoy-digital-hijack)
+- [WORLD4](https://alexandermuscat.itch.io/world4)
 - [Heat Bunting, borderxing](http://www.irational.org/heath/borderxing/home.html)
 
 
