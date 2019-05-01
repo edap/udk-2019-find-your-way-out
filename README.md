@@ -43,7 +43,9 @@
 ### Homework 
 - Remove ofEasyCam and use ofCamera.
 - Adjust height of the hills using the mouse position (use setUniform1f!).
-- Bonus for the sun
+- Bonus if you add a sun.
+- Back to our original implementation, where the noise was written in a texture. Can you imagine to use an image that comes from a satellite instead of a noised image? some tips [here](https://medium.com/@zubazor/visualizing-a-mountain-using-three-js-landsat-and-srtm-26275c920e34)
+
 
 
 
