@@ -71,7 +71,6 @@
 - [Pac-man](https://en.wikipedia.org/wiki/Pac-Man)
 - [2002, Super Mario Clouds](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
 - [The invisible shape of things past](https://artcom.de/en/project/the-invisible-shape-of-things-past/)
-- [Etoy, digital hijack](https://www.artlog.net/de/art/etoy-digital-hijack)
 
 ### Class activities:
 - Build a 2D composition that recall a labyrinth OR
