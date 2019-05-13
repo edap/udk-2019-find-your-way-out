@@ -9,19 +9,19 @@
 
 ##### Table of Contents
 
-[Terrain](#terrain)
+[Terrain](##terrain-generation-from-noise-texture)
 
-[Labyrinth](#labyrinth)
+[Labyrinth](#maze)
 
 [Point clouds](#point-clouds)
 
-[3D scan of objects](#scan-obj)
+[3D scan of objects](#3d-scan-of-objects)
 
-[3D scan of ambients](#scan-ambients) 
+[3D scan of ambients](#3d-scan-of-external-ambients) 
 
-[3D scanned model elaboration.](#elaboration)
+[3D scanned model elaboration.](#3d-scanned-model-elaboration)
 
-[Space Navigation](#navigation)
+[Space Navigation](#space-navigation)
 
 
 
