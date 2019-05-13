@@ -93,6 +93,56 @@ public:
         }
     }
 
+	int checkNeighBoursBias(vector<Cell> grid, int w, int rows, int cols) {
+		// horizontal bias
+		vector<int> neighboursVert;
+		vector<int> neighboursHor;
+
+		int topIndex = getIndex(i, j - 1, w, rows, cols);
+		int rightIndex = getIndex(i + 1, j, w, rows, cols);
+		int bottomIndex = getIndex(i, j + 1, w, rows, cols);
+		int leftIndex = getIndex(i - 1, j, w, rows, cols);
+
+		if (topIndex >= 0 && grid[topIndex].visited == false) {
+			neighboursVert.push_back(topIndex);
+		}
+		if (rightIndex >= 0 && grid[rightIndex].visited == false) {
+			neighboursHor.push_back(rightIndex);
+		}
+		if (bottomIndex >= 0 && grid[bottomIndex].visited == false) {
+			neighboursVert.push_back(bottomIndex);
+		}
+		if (leftIndex >= 0 && grid[leftIndex].visited == false) {
+			neighboursHor.push_back(leftIndex);
+		}
+
+		int randomIndex;
+		if (neighboursHor.size() > 0 && neighboursVert.size() > 0) {
+			float random = ofRandom(0.0, 1.0f);
+			float bias = 0.2f; // just 20 percent of probability to pick an horizontal neighbours
+			if (random > bias) {
+				randomIndex = floor(ofRandom(0, neighboursHor.size()));
+				return neighboursHor[randomIndex];
+			}
+			else {
+				randomIndex = floor(ofRandom(0, neighboursVert.size()));
+				return neighboursVert[randomIndex];
+			};
+		}
+		else if (neighboursHor.size() > 0) {
+			randomIndex = floor(ofRandom(0, neighboursHor.size()));
+			return neighboursHor[randomIndex];
+		}
+		else if (neighboursVert.size()) {
+			randomIndex = floor(ofRandom(0, neighboursVert.size()));
+			return neighboursVert[randomIndex];
+		}
+		else {
+			return -1;
+		}
+	}
+
+
     void highlight(int w){
         ofPushStyle();
         ofSetColor(ofFloatColor::yellow);
