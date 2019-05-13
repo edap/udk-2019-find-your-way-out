@@ -9,19 +9,19 @@
 
 ##### Table of Contents
 
-[Terrain](#terrain)
+[Terrain](##terrain-generation-from-noise-texture)
 
-[Labyrinth](#labyrinth)
+[Labyrinth](#maze)
 
 [Point clouds](#point-clouds)
 
-[3D scan of objects](#scan-obj)
+[3D scan of objects](#3d-scan-of-objects)
 
-[3D scan of ambients](#scan-ambients) 
+[3D scan of ambients](#3d-scan-of-external-ambients) 
 
-[3D scanned model elaboration.](#elaboration)
+[3D scanned model elaboration.](#3d-scanned-model-elaboration)
 
-[Space Navigation](#navigation)
+[Space Navigation](#space-navigation)
 
 
 
@@ -69,12 +69,12 @@
 - [Simple Path finding algorithm](https://en.wikipedia.org/wiki/Pathfinding#Sample_algorithm)
 - [List of maze video games](https://en.wikipedia.org/wiki/List_of_maze_video_games)
 - [Pac-man](https://en.wikipedia.org/wiki/Pac-Man)
-- [2002, Super Mario Clouds](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
 - [The invisible shape of things past](https://artcom.de/en/project/the-invisible-shape-of-things-past/)
 
 ### Class activities:
-- Build a 2D composition that recall a labyrinth OR
-- Implement one of the algorithm explained [here](https://en.wikipedia.org/wiki/Maze_generation_algorithm) 
+- We implement the [Depth First Search Algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Randomized_Depth-First_Search). Credit to Daniel Shiffman for the [p5 version](https://thecodingtrain.com/CodingChallenges/010.4-maze-dfs-p5.html)
+- Use the algorithm created in class to build a 2D composition OR
+- Implement one of the other algorithm explained [here](https://en.wikipedia.org/wiki/Maze_generation_algorithm) 
 
 <a name="#point-clouds"/>
 
@@ -114,6 +114,7 @@
 ## 3D scan of external ambients.
 
 </a>
+
 - How to scan an external ambient using a photocamera.
 - How to get a 3D model from a file video
 
