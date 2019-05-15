@@ -86,7 +86,7 @@
 - Create and draw a point cloud in openFrameworks.
 
 ### Class activities:
--  Open `examples/3d/pointCloudExample`, remove `glEnable(GL_POINT_SMOOTH);`, `mesh.setMode(OF_PRIMITIVE_POINTS);`, `glEnable(GL_POINT_SMOOTH);` and see how this affect the result.
+-  Open `03pointCloudExample`, remove `glEnable(GL_POINT_SMOOTH);`, `mesh.setMode(OF_PRIMITIVE_POINTS);`, `glEnable(GL_POINT_SMOOTH);` and see how this affect the result.
 - Create a texture and a point cloud mesh using ofNoise. Apply the colors to your points, as in the example.
 
 <a name="#scan-obj"/>
