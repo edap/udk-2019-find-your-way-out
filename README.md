@@ -105,6 +105,7 @@
 	* [scanning of the bottom part of an object](https://www.agisoft.com/index.php?id=49)
 
 ### Resources/Inspiration:
+- [Sample Data](https://www.agisoft.com/downloads/sample-data/)
 - [A brief history of photogrammetry, By Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/Photogrammetry-and-3D-scanning.md)
 - [Slit Scan Turntable by Convivial](https://www.instructables.com/id/Slit-Scan-Turntable/)
 - [Clouds, James George & Jonathan Minard](https://medium.com/volumetric-filmmaking/spatialstorytelling-fa4b6ace3e16)
