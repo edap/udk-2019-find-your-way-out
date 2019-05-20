@@ -103,6 +103,7 @@
 	* [Michelle's tutorial](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/michelle/tutorial2.md) for using PhotoScan
 	* [Claire's tutorial](https://github.com/golanlevin/ExperimentalCapture/blob/master/workshop/pdf/photogrammetry_from_video_with_photoscan.pdf) for PhotoScan from video frames.
 	* [scanning of the bottom part of an object](https://www.agisoft.com/index.php?id=49)
+	* [metashape tutorial](https://styly.cc/tips/photogrammetry_discont_metashape/)
 
 ### Resources/Inspiration:
 - [Sample Data](https://www.agisoft.com/downloads/sample-data/)
