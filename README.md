@@ -97,6 +97,7 @@
 
 * Introduction to photogrammetry
 * How to use [metashape](https://www.agisoft.com/) and how to import your scanned object in other programs. These tutorials refers to Agisoft photoscan, the new version of this software is called metashape, it works more or less the same. The following tutorials comes from [Golan Levin's course](https://github.com/golanlevin/ExperimentalCapture/)
+        * Metashape's [documentation](https://www.agisoft.com/pdf/metashape_1_5_en.pdf). Specially the "capturing scenarios" chapter.
 	* Alex Porter's Tutorial: Capturing with Photoscan](https://vimeo.com/123701711)
 	* *Optional viewing*: Alex Porter's Tutorial for [Alex Porter's Tutorial: Cleaning Photoscans](https://vimeo.com/123702711)
 	* [Michelle's tutorial](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/michelle/tutorial2.md) for using PhotoScan
