@@ -97,17 +97,21 @@
 
 * Introduction to photogrammetry
 * How to use [metashape](https://www.agisoft.com/) and how to import your scanned object in other programs. These tutorials refers to Agisoft photoscan, the new version of this software is called metashape, it works more or less the same. The following tutorials comes from [Golan Levin's course](https://github.com/golanlevin/ExperimentalCapture/)
+        * Metashape's [documentation](https://www.agisoft.com/pdf/metashape_1_5_en.pdf). Specially the "capturing scenarios" chapter.
 	* Alex Porter's Tutorial: Capturing with Photoscan](https://vimeo.com/123701711)
 	* *Optional viewing*: Alex Porter's Tutorial for [Alex Porter's Tutorial: Cleaning Photoscans](https://vimeo.com/123702711)
 	* [Michelle's tutorial](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/michelle/tutorial2.md) for using PhotoScan
 	* [Claire's tutorial](https://github.com/golanlevin/ExperimentalCapture/blob/master/workshop/pdf/photogrammetry_from_video_with_photoscan.pdf) for PhotoScan from video frames.
 	* [scanning of the bottom part of an object](https://www.agisoft.com/index.php?id=49)
+	* [metashape tutorial](https://styly.cc/tips/photogrammetry_discont_metashape/)
 
 ### Resources/Inspiration:
+- [Sample Data](https://www.agisoft.com/downloads/sample-data/)
 - [A brief history of photogrammetry, By Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/Photogrammetry-and-3D-scanning.md)
 - [Slit Scan Turntable by Convivial](https://www.instructables.com/id/Slit-Scan-Turntable/)
 - [Clouds, James George & Jonathan Minard](https://medium.com/volumetric-filmmaking/spatialstorytelling-fa4b6ace3e16)
 - [Volumetric filmaking](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
+- [Problem with glossy objects](https://sketchfab.com/3d-models/photogrammetry-paddles-comparsion-afb8b00764484a21a0ed7f674c727fb8)
 
 <a name="#scan-ambients"/>
 
