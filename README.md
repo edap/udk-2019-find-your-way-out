@@ -111,6 +111,7 @@
 - [Slit Scan Turntable by Convivial](https://www.instructables.com/id/Slit-Scan-Turntable/)
 - [Clouds, James George & Jonathan Minard](https://medium.com/volumetric-filmmaking/spatialstorytelling-fa4b6ace3e16)
 - [Volumetric filmaking](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
+- [Problem with glossy objects](https://sketchfab.com/3d-models/photogrammetry-paddles-comparsion-afb8b00764484a21a0ed7f674c727fb8)
 
 <a name="#scan-ambients"/>
 
