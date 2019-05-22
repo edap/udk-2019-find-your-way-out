@@ -28,7 +28,6 @@ void ofApp::update(){
         videoPixels = movie.getPixels();
 
         int skip = 4; // load a subset of the points
-        int meshIndex = 0;
         for(int y = 0; y < videoHeight; y += skip) {
             for(int x = 0; x < videoWidth; x += skip) {
 
@@ -41,14 +40,6 @@ void ofApp::update(){
                 mesh.addVertex(pos);
             }
         }
-
-        int slice = (mouseX < videoWidth) ? mouseX : videoWidth/2;
-
-        for (int y=0; y<videoHeight; y++){
-            auto midColumnColor = videoPixels.getColor(slice, y);
-
-        }
-
     }
 }
 
