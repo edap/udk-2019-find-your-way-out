@@ -89,6 +89,12 @@
 -  Open `03pointCloudExample`, remove `glEnable(GL_POINT_SMOOTH);`, `mesh.setMode(OF_PRIMITIVE_POINTS);`, `glEnable(GL_POINT_SMOOTH);` and see how this affect the result.
 - Create a texture and a point cloud mesh using ofNoise. Apply the colors to your points, as in the example.
 
+
+### Homework
+
+- Take a picture or a movie and get a point mesh out of it. Animate it or iterate over some of the ideas we get in class.
+- Bring a device that you can use to capture images or videos, and an USB cable to load those images on your hard disk. Download [metashape standard](https://www.agisoft.com/)
+
 <a name="#scan-obj"/>
 
 ## 3D scan of objects.
@@ -107,6 +113,7 @@
 
 ### Resources/Inspiration:
 - [Sample Data](https://www.agisoft.com/downloads/sample-data/)
+- [Model reconstruction](https://www.agisoft.com/pdf/PS_1.4_Tutorial%20(BL)%20-%203D%20Model%20Reconstruction.pdf)
 - [A brief history of photogrammetry, By Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/Photogrammetry-and-3D-scanning.md)
 - [Slit Scan Turntable by Convivial](https://www.instructables.com/id/Slit-Scan-Turntable/)
 - [Clouds, James George & Jonathan Minard](https://medium.com/volumetric-filmmaking/spatialstorytelling-fa4b6ace3e16)
