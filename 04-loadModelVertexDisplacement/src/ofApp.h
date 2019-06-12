@@ -4,6 +4,7 @@
 #include "ofxAssimpModelLoader.h"
 #include "ofxGui.h"
 
+
 class ofApp : public ofBaseApp{
 
 public:
@@ -23,5 +24,5 @@ public:
     ofParameter<float> magNoise = {"magNoise", .03, 0.01, 1.0};
     ofParameter<float> freqNoise = {"freqNoise", 0.1, 0.1, 1.0};
 
-    bool usePoints = true;
+    bool usePoints = false;
 };
